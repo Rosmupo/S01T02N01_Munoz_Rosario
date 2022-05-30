@@ -11,7 +11,7 @@ public class App {
         int[] testList = {1, 2, 3};
 
 
-        System.out.println("BIENVENIDO AL APLICACIÓN");
+        System.out.println("BIENVENIDO A LA APLICACIÓN");
 
         while (!out) {
             System.out.println("""
